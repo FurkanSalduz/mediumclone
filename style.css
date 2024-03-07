@@ -1,0 +1,33 @@
+body {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.btn-radius{
+    border-radius: 99em;
+    background-color:#000000;
+}
+
+.bg-color {
+    background-color: #FFC017;
+}
+.img-trending{
+    width: 22px;
+    height: 22px;
+
+}
+.fa-star {
+    color: #FFC017;
+}
+
+.buttons >a {
+    margin: 10px;
+}
+.links >a{
+    margin: 5px;
+}
+.numbers {
+    font-size: xx-large;
+    font-weight: 500;
+    color:#F2F2F2;
+}
+
+
